@@ -1,13 +1,29 @@
 # AWS DevOps Lab
 
-Laboratório criado para estudos de DevOps na AWS.
+Laboratório prático de aprendizagem DevOps com AWS.
 
-## Objetivos
+## Tecnologias
 
-- Aprender Git
-- Aprender AWS
-- Automação
+- AWS
+- GitHub
+- GitHub Actions
 - Docker
 - Terraform
 - Ansible
-- CI/CD
+- CloudWatch
+
+## Roadmap
+
+- [x] Semana 1 - Git + AWS CLI
+- [ ] Semana 2 - EC2 + Automação
+- [ ] Semana 3 - Docker + ECR
+- [ ] Semana 4 - CI/CD
+- [ ] Semana 5 - Terraform
+- [ ] Semana 6 - Ansible
+- [ ] Semana 7 - Observabilidade
+- [ ] Semana 8 - Projeto Final
+
+## Estrutura
+
+```text
+...
